@@ -29,7 +29,7 @@ expense_tracker_app/
 │
 └── main.py
 └── README.md
----
+```
 
 ### Directory Breakdown:
 
@@ -51,7 +51,7 @@ expense_tracker_app/
   - Passwords are securely hashed using SHA-256.
 
 - **Expense Management**:
-  - Add new expenses with these details amount, category, description, and date.
+  - Add new expenses with these details like amount, category, description, and date.
   - View all recorded expenses.
   - Update and delete existing expenses.
   - Search for expenses by date.
