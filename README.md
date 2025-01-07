@@ -8,7 +8,9 @@ This repository contains the full source code for the Expense Tracker App. Below
 
 ---
 
-## Project structure
+## Project Structure
+
+```
 expense_tracker_app/
 │
 ├── database/
