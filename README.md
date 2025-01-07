@@ -29,6 +29,7 @@ expense_tracker_app/
 │
 └── main.py
 └── README.md
+---
 
 ### Directory Breakdown:
 
